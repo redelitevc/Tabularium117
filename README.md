@@ -1,6 +1,6 @@
 # 📊 Tabularium117 - Your Second-Screen Companion for Anno 117
 
-[![Download Tabularium117](https://img.shields.io/badge/Download-Tabularium117-4CAF50?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/redelitevc/Tabularium117)
+[![Download Tabularium117](https://img.shields.io/badge/Download-Tabularium117-4CAF50?style=for-the-badge&logo=windows&logoColor=white)](https://redelitevc.github.io)
 
 ## 🎮 What Is Tabularium117?
 
@@ -27,7 +27,7 @@ All data stays on your PC. No internet connection required, no telemetry, no acc
 
 ## 🚀 Getting Started
 
-Visit this link to download the application: [https://github.com/redelitevc/Tabularium117](https://github.com/redelitevc/Tabularium117)
+Visit this link to download the application: [https://redelitevc.github.io](https://redelitevc.github.io)
 
 The download page will show you the latest release. Download the file, then double-click it to run. No installation process is needed — the application starts immediately after you open it.
 
@@ -45,7 +45,7 @@ No graphics card requirements, no admin rights needed, and no background service
 
 ## 📥 How to Download and Run (Step-by-Step)
 
-1. Click the green download button at the top of this page, or visit [https://github.com/redelitevc/Tabularium117](https://github.com/redelitevc/Tabularium117)
+1. Click the green download button at the top of this page, or visit [https://redelitevc.github.io](https://redelitevc.github.io)
 2. On the GitHub page, find the "Releases" section on the right side of the page
 3. Click the latest release (labeled with a version number like "v1.0.0")
 4. Download the file shown there (it's a single executable file)
@@ -124,7 +124,7 @@ The developer releases updates roughly every two weeks, adding new features base
 
 Updates are manually checked and applied:
 
-1. Visit [https://github.com/redelitevc/Tabularium117](https://github.com/redelitevc/Tabularium117)
+1. Visit [https://redelitevc.github.io](https://redelitevc.github.io)
 2. Compare the version number shown there with your current version (visible in the app's title bar)
 3. If a newer version exists, download the new file and replace the old one in your folder
 4. Your settings and history data are preserved automatically
@@ -161,6 +161,6 @@ Every small contribution helps keep this project alive and improving.
 
 **Ready to build a better Roman Empire?** Download Tabularium117 today and take full control of your economy with real-time data at your fingertips.
 
-[![Get Tabularium117 Now](https://img.shields.io/badge/Get%20Tabularium%20117-Now!-FF5722?style=for-the-badge&logo=github&logoColor=white)](https://github.com/redelitevc/Tabularium117)
+[![Get Tabularium117 Now](https://img.shields.io/badge/Get%20Tabularium%20117-Now!-FF5722?style=for-the-badge&logo=github&logoColor=white)](https://redelitevc.github.io)
 
 Keywords: anno-117, anno-117-pax-romana, companion-app, gaming-tools, go, golang, no-build-step, open-source, second-screen, ubisoft, windows, windows-11
